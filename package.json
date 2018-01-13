@@ -1,0 +1,31 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "MEAN stack with angular2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamethical/MEAN-Angular2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK",
+    "Angular",
+    "2",
+    "Application",
+    "easy"
+  ],
+  "author": "Shivam Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivamethical/MEAN-Angular2/issues"
+  },
+  "homepage": "https://github.com/shivamethical/MEAN-Angular2#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.9"
+  }
+}
